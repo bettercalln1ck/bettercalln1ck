@@ -24,7 +24,7 @@ Software engineer building full stack web apps, iOS apps and AI agents. Open-sou
 |---|---|---|
 | [Resolve](https://github.com/bettercalln1ck/resolve-agentic-returns) | Agentic refund resolver with a policy verifier and human approval gate (micro1 challenge 2026) | Python, Gemini |
 | [SoftChaosClub](https://github.com/bettercalln1ck/SoftChaosClub) | Full stack art e-commerce site with auth and admin panel | React, TypeScript, Express, MongoDB |
-| [TaskWare](https://github.com/bettercalln1ck/TaskFlow) | Local-first iOS task manager with tests | SwiftUI, Core Data |
+| [TaskWare](https://github.com/bettercalln1ck/TaskWare) | Local-first iOS task manager with tests | SwiftUI, Core Data |
 | [Hum_safar](https://github.com/bettercalln1ck/Hum_safar) | Real-time video sync across users | Node.js, MySQL |
 
 ## 📊 Lifetime GitHub Summary
