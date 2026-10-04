@@ -1,5 +1,7 @@
 ### Hi, I'm Nikhil 👋
 
+Software engineer building full stack web apps, iOS apps and AI agents. Open-source contributor to OWASP ZAP.
+
 <!-- Snake eating my contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bettercalln1ck/bettercalln1ck/output/github-contribution-grid-snake-dark.svg">
@@ -7,18 +9,23 @@
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/bettercalln1ck/bettercalln1ck/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 👨‍💻 About My Work & Journey
+## What I work on
+- **Full stack:** React, TypeScript, Node.js, Express, MongoDB, MySQL
+- **iOS:** Swift, SwiftUI, UIKit, Core Data
+- **AI agents:** tool calling, evaluation and deterministic verification (Python, Gemini)
+- **Security:** web app security research, CTFs with team NULLKrypt3rs
 
-I am a software engineer with a deep focus on systems architecture, mobile development, and AI tooling. My work spans across low-level algorithm optimization to consumer-facing applications.
+## Open source
+- **[OWASP ZAP](https://github.com/zaproxy/zap-extensions):** added a [Web Cache Deception scan rule](https://github.com/zaproxy/zap-extensions/pull/2696), [bulk payload import](https://github.com/zaproxy/zap-extensions/pull/2723) and [DOM pattern detection for Wappalyzer](https://github.com/zaproxy/zap-extensions/pull/2669)
+- **[ODS / DreamServer](https://github.com/Osmantic/ODS):** backup and restore safety fixes ([#2952](https://github.com/Osmantic/ODS/pull/2952), [#2954](https://github.com/Osmantic/ODS/pull/2954), [#2962](https://github.com/Osmantic/ODS/pull/2962))
 
-**Here is a snapshot of what I do:**
-
-*   **iOS & Apple Ecosystem:** I build robust iOS applications utilizing Swift, SwiftUI, and UIKit, frequently debugging complex runtime crashes and architecting scalable app designs.
-*   **Core Systems & Algorithms:** I have a strong foundation in C++ and Data Structures & Algorithms. My past projects include building custom regex engines using Thompson's NFA approach and DFA subset construction.
-*   **AI & Video Generation:** I actively work with local AI model execution and video generation pipelines, specifically optimizing workflows to run on Apple Silicon hardware (M4 Pro).
-*   **Open Source:** A proud GitHub Developer Program Member and an Arctic Code Vault Contributor, reflecting a long-term commitment to writing and shipping code.
-
-**Tech Stack:** `C++` | `Swift` | `SwiftUI` | `UIKit` | `AI/LLMs`
+## Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [Resolve](https://github.com/bettercalln1ck/resolve-agentic-returns) | Agentic refund resolver with a policy verifier and human approval gate (micro1 challenge 2026) | Python, Gemini |
+| [SoftChaosClub](https://github.com/bettercalln1ck/SoftChaosClub) | Full stack art e-commerce site with auth and admin panel | React, TypeScript, Express, MongoDB |
+| [TaskWare](https://github.com/bettercalln1ck/TaskFlow) | Local-first iOS task manager with tests | SwiftUI, Core Data |
+| [Hum_safar](https://github.com/bettercalln1ck/Hum_safar) | Real-time video sync across users | Node.js, MySQL |
 
 ## 📊 Lifetime GitHub Summary
 
